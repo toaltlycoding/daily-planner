@@ -1,0 +1,15 @@
+.container {   
+    align-items: center; /* Vertically center the items */
+    width: 100%; /* Take up full width */
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+
