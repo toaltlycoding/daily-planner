@@ -25,20 +25,20 @@ a:hover {
 html, body {
   margin: 0;
   padding: 0;
-  height: 100%; /* Make sure body fills the full height */
+  height: 100%; 
   display: block;
-  justify-content: center; /* Centers horizontally */
-  align-items: center; /* Centers vertically */
+  justify-content: center; 
+  align-items: center; 
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("C:/Learning/Learning/daily-planner-main/src/assets/patrickshaunflowers.jpg");
+  background-image: url("C:\Learning\Learning\daily-planner\src\assets\patrickshaunflowers.jpg");
 }
 
 body {
   margin: 0;
   min-width: 320px;
-  min-height: 100vh; /* Ensure the body takes at least the full height of the viewport */
+  min-height: 100vh; 
 }
 
 
