@@ -4,9 +4,10 @@ import "../css/AddTask.css"
 
 function AddTask() {
 
+    //typescript couldn't infer the correct type of useState, defining the type of state
     interface Task {
         text: string;
-        completed: boolean;
+        completed: boolean; //track if completed
         editing: boolean; //track if task is being edited
     }
 
